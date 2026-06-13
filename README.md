@@ -6,7 +6,7 @@ screenshots, and an API-backed truth model with API cleanup.
 
 ---
 
-## 1. Senior QA analysis (before implementation)
+## 1. 
 
 ### 1.1 Risk analysis — weakest points of the TestRail UI flow
 
