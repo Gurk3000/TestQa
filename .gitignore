@@ -1,0 +1,18 @@
+# Secrets
+config/credentials.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Reports & artifacts
+reports/html/*.html
+reports/allure-results/
+reports/allure-report/
+reports/failure_summary.txt
+screenshots/*.png
+logs/*.log
